@@ -1,11 +1,10 @@
-from setuptools import setup, find_packages
+from distutils.core import setup
 
 setup(name='draw with percentage',
-      version='0.0.1',
+      version='0.0.2',
       description='Python Library to draw with percentage',
       author='Mateusz Kołodziejczyk',
       author_email='mateusz.j.kolodziejczyk@gmail.com',
       license='MIT',
-      packages=find_packages(),
       python_requires='>=3.5'
       )
