@@ -3,4 +3,4 @@ __pycache__/
 .idea/
 .venv/
 dist/
-draw_with_percentages.egg-info/
+draw_with_percentage.egg-info/
