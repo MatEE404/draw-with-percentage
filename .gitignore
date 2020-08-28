@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 dist/
 draw_with_percentage.egg-info/
+build/
